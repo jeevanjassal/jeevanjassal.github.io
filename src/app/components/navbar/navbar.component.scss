@@ -1,0 +1,22 @@
+.navbar-bg {
+    width: 100%;
+    height: 60px;
+    background-color: #1f1f1f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
+    border-bottom: 10px groove #90d3fa;
+
+    ul {
+        list-style-type: none;
+        // margin: 0px;
+        // padding: 0px;
+    }
+    li {
+        display: inline;
+        color: white;
+        padding: 25px;
+    }
+}
